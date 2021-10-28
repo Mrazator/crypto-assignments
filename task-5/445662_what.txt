@@ -1,0 +1,1 @@
+Sensitive information is k (nonce), as the algorithm, scalar multiplication, is depended on its length.
